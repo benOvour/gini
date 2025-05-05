@@ -1,16 +1,67 @@
-# gini
+# 🚀 GINI – Your Personal Job Finder
 
-A new Flutter project.
+**Gini** is a beautifully crafted Flutter application that helps users discover their dream jobs. It features Firebase Authentication, animated onboarding, and a sleek UI with modern scroll effects.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔐 Firebase Email & Password Authentication
+- 🎨 Custom fonts (Poppins)
+- 🎞 Animated splash and onboarding screen
+- 🔄 Horizontal marquee scroll for job categories
+- 🧭 Slide transitions between pages
+- 📱 Fully responsive and dark-themed UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
+*the app is under development and still work in progress
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##Future updates
+🔍 Job search engine with filter & sort options
+🌍 Location-based job recommendations using Maps API
+📝 Resume upload & builder functionality
+🧑‍💼 Recruiter dashboard for posting jobs
+📥 Push notifications for job matches and messages
+🕵️‍♂️ AI-based job matching and suggestion system
+📊 Application tracking and progress dashboard
+💬 In-app messaging between recruiters and job seekers
+🗂 Saved jobs and user-specific preferences
+🎯 Multi-language support for regional accessibility
+
+## 📸 Screenshots
+
+<p float="left">
+  <img src="./main.png" width="200" />
+  <img src="./start.png" width="200" />
+  <img src="./appli.png" width="200" />
+  <img src="./emp.png" width="200" />
+</p>
+
+
+---
+
+## 📦 APK Download
+
+Click below to download the latest APK of GINI:
+
+[⬇️ Download APK]([https://your-apk-hosting-link.com/gini.apk](https://drive.google.com/drive/folders/15u7GD-9kI-0trc8QkCqMnDwweroNbSo5?usp=sharing))
+
+> Upload your `.apk` file to GitHub Releases, Google Drive (public), or any trusted cloud and paste the link above.
+
+---
+
+## 🛠 Installation & Setup
+
+### 🔧 Requirements
+
+- Flutter 3.10+
+- Dart SDK
+- Firebase Project
+
+### 🧩 Clone and Run
+
+```bash
+git clone https://github.com/yourusername/gini.git
+cd gini
+flutter pub get
+flutter run
