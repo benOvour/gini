@@ -44,7 +44,7 @@
 
 Click below to download the latest APK of GINI:
 
-[⬇️ Download APK]([https://your-apk-hosting-link.com/gini.apk](https://drive.google.com/drive/folders/15u7GD-9kI-0trc8QkCqMnDwweroNbSo5?usp=sharing))
+[⬇️ Download APK]([https://drive.google.com/drive/folders/15u7GD-9kI-0trc8QkCqMnDwweroNbSo5?usp=sharing])
 
 > Upload your `.apk` file to GitHub Releases, Google Drive (public), or any trusted cloud and paste the link above.
 
